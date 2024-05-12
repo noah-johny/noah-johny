@@ -1,9 +1,7 @@
 # 👋 Hi, I’m **Noah Johny**
 ## A self-taught Fullstack Web/App Developer & UI/UX Designer
 
-As a seasoned developer with a creative flair, I specialize in crafting efficient software solutions 🚀. Proficient in **Java, Python, and C**, my hands-on expertise is centered on **JavaScript and TypeScript**. 
-
-In web development, I skillfully leverage **React, Next.js, and the MERN Stack**, complemented by adept use of **React Native and Expo** for cross-platform app development.
+As a seasoned developer with a creative flair, I specialize in crafting efficient software solutions 🚀. Proficient in **Java, Python, and C**, my hands-on expertise is centered on **JavaScript and TypeScript**. In web development, I skillfully leverage **React, Next.js, and the MERN Stack**, complemented by adept use of **React Native and Expo** for cross-platform app development.
 
 Beyond coding, I navigate the design realm 🎨 at the intersection of aesthetics and functionality. **Figma** serves as my design playground, where I sculpt visually stunning and user-centric interfaces. This dual proficiency in development and design positions me to craft seamless, end-to-end digital experiences.
 
